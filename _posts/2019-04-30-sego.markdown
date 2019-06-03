@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "SEGO"
+date:   2019-04-30 10:29:53 +0300
+categories: website
+---
+*SEGO* was a system developed in 2018 with my collaborators [Victor Lempitsky](http://sites.skoltech.ru/compvision/members/vilem/)
+ and [Yinqiang Zheng](https://www.nii.ac.jp/en/faculty/digital_content/zheng_yinqiang/). 
+We studied a problem of robust pose alignment between two stereo cameras based on line and point features.
+We arrived at a new algorithm which uses minimal possible number of observations to solve the problem. 
+The method can significantly increase robustess of the well-known [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) system. Please see the project page [here](/sego/).
