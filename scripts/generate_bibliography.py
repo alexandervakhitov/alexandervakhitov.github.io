@@ -14,20 +14,24 @@ for bib_item in bib_database.entries:
 
 bib_inds = np.argsort(years)
 
+previous_year = -1
 writer = BibTexWriter()
 with open('publication_list.md', 'w') as md_file:
     #for bib_item in bib_database.entries:
     for bib_ind in bib_inds:
+        if years[bib_ind] != previous_year:
+            md_file.write("\n#### {}\n".format(-years[bib_ind]))
+            previous_year = years[bib_ind]
         bib_item = bib_database.entries[bib_ind]
         if 'booktitle' in bib_item:
-            venue = u', {}'.format(bib_item['booktitle']).replace('{', '').replace('}', '')
+            venue = u' {},'.format(bib_item['booktitle']).replace('{', '').replace('}', '')
         elif bib_item['journal']:
-            venue = u', {}'.format(bib_item['journal'])
+            venue = u' {},'.format(bib_item['journal'])
         else:
             venue = u''
 
         if 'pages' in bib_item:
-            pages = u', {}'.format(bib_item['pages'])
+            pages = u' pp. {}'.format(bib_item['pages'])
         else:
             pages = u''
 
@@ -44,10 +48,13 @@ with open('publication_list.md', 'w') as md_file:
         with open('publications/{0}'.format(bib_file), 'w') as bib:
             bib_str = bibtexparser.dumps(db)
             bib.write(bib_str)
-        md_file.write(u"- {0} *{1}* ({2}){3}{4} {5} {6}\n".format(bib_item['author'],
+        year_str = bib_item['year']
+        if len(pages)>0:
+            year_str += ','
+        md_file.write(u"- {0} **{1},** {2} {3} {4} {5} {6}\n".format(bib_item['author'],
                                                                   bib_item['title'].replace('{', '').replace('}', ''),
-                                                                  bib_item['year'],
                                                                   venue,
+                                                                  year_str,
                                                                   pages,
                                                                   pdf_link,
                                                                   bib_link))
