@@ -3,6 +3,10 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-### [Stereo egomotion](/sego/)
+#### [Set2Model Networks](/s2m2/)
 
-### [Learnable line descriptor](/lld/)
+#### [Camera Pose Estimation and Visual SLAM with Lines](/lines/)
+
+#### [SPSA Accuracy and Minimum Tracking](/sego/)
+
+

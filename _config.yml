@@ -16,7 +16,7 @@
 title: Alexander Vakhitov
 email: alexander.vakhitov@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a researcher in computer vision, robotics, control and optimization. This website includes my papers and projects.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: alvakhitov
@@ -29,7 +29,9 @@ plugins:
   - jekyll-feed
 header_pages:
   - index.md
+  - pres.md
   - projects.md
+  - pubs.md
   - cv.md
 
 # Exclude from processing.

@@ -16,11 +16,10 @@ permalink: /sego/
 
 #### ECCV 2018
 
-[Alexander Vakhitov](mailto:alexander.vakhitov@gmail.com)
+Alexander Vakhitov, 
+[Victor Lempitsky](http://sites.skoltech.ru/compvision/members/vilem/),
+[Yinqiang Zheng](https://sites.google.com/site/yinqiangzheng/)
 
-[Victor Lempitsky](mailto:v.lempitsky@skoltech.ru)
-
-[Yinqiang Zheng](mailto:yqzheng@nii.ac.jp)
 
 ![My helpful screenshot](/assets/sego.jpg){: .image-left }Stereo relative pose problem lies at the core of stereo visual odometry systems that are used in many applications. In this work
 we present two minimal solvers for the stereo relative pose. We specifically consider the case when a minimal set consists of three point or

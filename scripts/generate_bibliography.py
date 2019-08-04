@@ -36,7 +36,7 @@ with open('publication_list.md', 'w') as md_file:
             pages = u''
 
         if 'file' in bib_item:
-            pdf_link = u' [pdf]({})'.format(bib_item['file'])
+            pdf_link = u' [pdf]({{{{site.url}}}}{})'.format(bib_item['file'])
         else:
             pdf_link = u''
 
@@ -44,7 +44,7 @@ with open('publication_list.md', 'w') as md_file:
         db = BibDatabase()
         db.entries = [bib_item]
         bib_file = 'bib/{0}.bib'.format(bib_item['ID'])
-        bib_link = u' [bib]({})'.format('/scripts/publications/'+bib_file)
+        bib_link = u' [bib]({{{{site.url}}}}{})'.format('/scripts/publications/'+bib_file)
         with open('publications/{0}'.format(bib_file), 'w') as bib:
             bib_str = bibtexparser.dumps(db)
             bib.write(bib_str)
