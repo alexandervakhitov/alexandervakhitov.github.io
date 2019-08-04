@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+  <!--<h1 class="post-list-heading">Introduction</h1>-->
+
+  I am Alexander Vakhitov, a member of Vision, Learning and Telepresence lab of
+  <a href="https://faculty.skoltech.ru/people/victorlempitsky">Victor Lempitsky</a> in
+  <a href="https://research.samsung.com/aicenter_moscow">Samsung AI Center-Moscow</a>.
+
+  <p>
+  I work on computer vision in augmented and virtual reality. My interests are in robotics, control and opimization as well.
+    Check my research and public code here:
+    <ul>
+      <li> <a href=https://scholar.google.ru/citations?user=g_2iut0AAAAJ&hl=ru"> Google Scholar</a> </li>
+      <li> <a href="https://github.com/alexandervakhitov">Github</a></li>
+      <li><a href="https://www.researchgate.net/profile/Alexander_Vakhitov">ResearchGate</a> </li>
+    </ul>
+  <p>
+  Find here my <a href="/pubs/">papers</a> and <a href="/projects/">projects</a>,
+  presentations and posts.
+  <!--Find here my research on computer vision, robotics, control and optimization.-->
+
+  {{ content }}
+
+
+  <!--{%- if site.posts.size > 0 -%}-->
+    <!--<h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>-->
+    <!--<ul class="post-list">-->
+      <!--{%- for post in site.posts -%}-->
+      <!--<li>-->
+        <!--{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}-->
+        <!--<span class="post-meta">{{ post.date | date: date_format }}</span>-->
+        <!--<h3>-->
+          <!--<a class="post-link" href="{{ post.url | relative_url }}">-->
+            <!--{{ post.title | escape }}-->
+          <!--</a>-->
+        <!--</h3>-->
+        <!--{%- if site.show_excerpts -%}-->
+          <!--{{ post.excerpt }}-->
+        <!--{%- endif -%}-->
+      <!--</li>-->
+      <!--{%- endfor -%}-->
+    <!--</ul>-->
+
+    <!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>-->
+  <!--{%- endif -%}-->
+
+</div>
