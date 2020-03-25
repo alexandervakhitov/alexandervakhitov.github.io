@@ -3,6 +3,7 @@ layout: page
 title: Accurate and linear time pose estimation from points and lines
 permalink: /pnpl/
 ---
+### European Conference on Computer Vision (ECCV), 2016
 
 Alexander Vakhitov, 
 [Jan Funke](http://funkey.science/), 
@@ -36,11 +37,9 @@ Comparison of pose estimation results with OPnPL (left) and OPnP
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ue73pcCfsYo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### LINKS
-
-#### Code
+### Code
 [MATLAB implementation](https://github.com/alexandervakhitov/pnpl.git)
  
-#### Paper
+### Paper
 
 Vakhitov, Alexander and Funke, Jan and Moreno-Noguer, Francesc **Accurate and linear time pose estimation from points and lines,**  European Conference on Computer Vision, 2016,  pp. 583--599  [pdf]({{site.url}}/scripts/publications/files/pnpl2016.pdf)  [bib]({{site.url}}/scripts/publications/bib/vakhitov2016accurate.bib)

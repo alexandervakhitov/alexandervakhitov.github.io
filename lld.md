@@ -1,9 +1,12 @@
 ---
 layout: page
-title: Learnable line descriptor
+title: Learnable Line Descriptor for Visual SLAM
 permalink: /lld/
 ---
-### Learnable line descriptor for visual SLAM
+### IEEE Access, 2019
+
+Alexander Vakhitov, 
+[Victor Lempitsky](http://sites.skoltech.ru/compvision/members/vilem/)
 
 Traditionally, indirect visual motion estimation and simultaneous localization and mapping (SLAM) systems were based on 
 point features. In recent years, several SLAM systems that use lines as primitives were suggested. Despite the extra 
@@ -30,17 +33,13 @@ proposed descriptor.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ntFFiwXIhoA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### LINKS
-
-#### Code
+### Code
 [LLD-based line matching in python](https://github.com/alexandervakhitov/lld-public.git)
 
 [Line detection and description library](https://github.com/alexandervakhitov/lbdmod.git)
 
 [LLD-SLAM system](https://github.com/alexandervakhitov/lld-slam.git)
 
+### Paper
 
- 
-#### Paper
-
-Vakhitov, Alexander and Lempitsky, Victor *Learnable Line Segment Descriptor for Visual SLAM* (2019), IEEE Access  [pdf](https://yadi.sk/d/ugN8qGun3r2mpQ/vakhitov-lld-2019.pdf)  [bib](/scripts/publications/bib/vakhitov2019learnable.bib)
+Vakhitov, Alexander and Lempitsky, Victor *Learnable Line Segment Descriptor for Visual SLAM* (2019), IEEE Access  [pdf]({{site.url}}/scripts/publications/files/vakhitov-lld-2019.pdf)  [bib](/scripts/publications/bib/vakhitov2019learnable.bib)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stereo egomotion
+title: Stereo relative pose from line and point feature triplets
 permalink: /sego/
 ---
 <style type="text/css">
@@ -12,9 +12,7 @@ permalink: /sego/
 }
 </style>
 
-### Stereo relative pose from line and point feature triplets
-
-#### ECCV 2018
+### European Conference on Computer Vision (ECCV), 2018
 
 Alexander Vakhitov, 
 [Victor Lempitsky](http://sites.skoltech.ru/compvision/members/vilem/),
@@ -33,13 +31,11 @@ the integration of the new solvers into a visual SLAM system.
 This video shows how a proposed algorithm helps a SLAM system to recover from tracking failures due to fast motion on video sequences of a popular [KITTI](http://www.cvlibs.net/datasets/kitti/) dataset: 
 {% include youtubePlayer.html id='SIMW1g2431w' %}
 
-### LINKS
-
-#### Code
+### Code
 [SEGO C++ library](https://github.com/alexandervakhitov/sego.git)
 
 [Modified ORB-SLAM2 + SEGO system](https://github.com/alexandervakhitov/ORB_SLAM2_SEGO.git)
  
-#### Paper
+### Paper
 
-Vakhitov, Alexander and Lempitsky, Victor and Zheng, Yinqiang *Stereo relative pose from line and point feature triplets* (2018), Proceedings of the European Conference on Computer Vision (ECCV), 648--663  [pdf](https://yadi.sk/d/ugN8qGun3r2mpQ/vakhitov2018.pdf)  [bib](/scripts/publications/bib/vakhitov2018stereo.bib)
+Vakhitov, Alexander and Lempitsky, Victor and Zheng, Yinqiang *Stereo relative pose from line and point feature triplets* (2018), Proceedings of the European Conference on Computer Vision (ECCV), 648--663  [pdf]({{site.url}}/scripts/publications/files/vakhitov2018.pdf)  [bib](/scripts/publications/bib/vakhitov2018stereo.bib)

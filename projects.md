@@ -3,10 +3,19 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+
+### Computer Vision and Robotics
+
+#### [Photorealistic Human Avatars](/avatars/)
+
+#### [Visual SLAM with Lines and Points](/lines/)
+
+#### [CarpetVR: 6DoF Smartphone VR](/carpetvr/)
+
 #### [Set2Model Networks](/s2m2/)
 
-#### [Camera Pose Estimation and Visual SLAM with Lines](/lines/)
+### Control and Optimization
 
-#### [SPSA Accuracy and Minimum Tracking](/sego/)
+#### [Nonstationary Stochastic Optimization](/spsa/)
 
 

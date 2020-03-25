@@ -1,14 +1,15 @@
 ---
 layout: page
-title: Camera Pose Estimation and Visual SLAM with Lines 
+title: Visual SLAM with Lines and Points 
 permalink: /lines/
 ---
 
-While a point feature is a standard basic atom of visual geometry, 
-a straight line segment is also a powerful primitive, especially helpful in man-made 
+Line segments are especially helpful for feature-based camera pose estimation in man-made 
 environments with repetitive visual appearance and lack of unique texture.
 
-Starting from 2016, we work on algorithms for camera pose estimation from lines and points.
+In this project, we created solvers for the [*absolute*]({{site.url}}/pnpl/) and [*relative*]({{site.url}}/sego/) camera 
+pose as well as [*mono-*]((https://www.albertpumarola.com/research/pl-slam/)) and [*stereo*](({{site.url}}/lld/)) SLAM systems based on the fusion of points and lines.
+We developed a deep SLAM-oriented [*descriptor*](({{site.url}}/lld/)) for line segment matching. 
 
 #### Collaborators
 [Albert Pumarola](https://www.albertpumarola.com/), 
@@ -20,25 +21,23 @@ Starting from 2016, we work on algorithms for camera pose estimation from lines 
 
 #### Papers
 
-Learnable Line Descriptor for Visual SLAM (IEEE Access, 2019)
-[page]({{site.url}}/lld/)
-[pdf]({{site.url}}/scripts/publications/files/vakhitov-lld-2019.pdf) 
+[Learnable Line Descriptor for Visual SLAM]({{site.url}}/lld/)
+<!-- [pdf]({{site.url}}/scripts/publications/files/vakhitov-lld-2019.pdf) 
 [bib]({{site.url}}/scripts/publications/bib/vakhitov2019learnable.bib) 
-[code](https://github.com/alexandervakhitov/lld-slam)            
+[code](https://github.com/alexandervakhitov/lld-slam) -->            
 
-Stereo relative pose from line and point feature triplets (ECCV, 2018)
-[page]({{site.url}}/sego/)
-[pdf]({{site.url}}/scripts/publications/files/vakhitov2018.pdf) 
+[Stereo relative pose from line and point feature triplets]({{site.url}}/sego/)
+<!-- [pdf]({{site.url}}/scripts/publications/files/vakhitov2018.pdf) 
 [bib]({{site.url}}/scripts/publications/bib/vakhitov2018stereo.bib) 
-[code](https://github.com/alexandervakhitov/sego)           
+[code](https://github.com/alexandervakhitov/sego) -->           
 
-PL-SLAM: Real-time Monocular Visual SLAM with Points and Lines (ICRA 2017)
-[page](https://www.albertpumarola.com/research/pl-slam/)
-[pdf]({{site.url}}/scripts/publications/files/pl-slam-2017.pdf)
-[bib]({{site.url}}/scripts/publications/bib/pumarola2017pl.bib) 
+[PL-SLAM: Real-time Monocular Visual SLAM with Points and Lines](https://www.albertpumarola.com/research/pl-slam/)
+<!-- [pdf]({{site.url}}/scripts/publications/files/pl-slam-2017.pdf)
+[bib]({{site.url}}/scripts/publications/bib/pumarola2017pl.bib) --> 
 
-Accurate and Linear Time Pose Estimation from Points and Lines (ECCV 2016)
-[page]({{site.url}}/pnpl/)
-[pdf]({{site.url}}/scripts/publications/files/pnpl2016.pdf)
+[Accurate and Linear Time Pose Estimation from Points and Lines]({{site.url}}/pnpl/)
+<!--[pdf]({{site.url}}/scripts/publications/files/pnpl2016.pdf)
 [bib]({{site.url}}/scripts/publications/bib/vakhitov2016accurate.bib)
-[code](https://github.com/alexandervakhitov/pnpl)
+[code](https://github.com/alexandervakhitov/pnpl)-->
+
+[Camera Pose and Focal Length Estimation Using Regularized Distance Constraints]({{site.url}}/pnpf/)
