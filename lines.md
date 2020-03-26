@@ -3,6 +3,7 @@ layout: page
 title: Visual SLAM with Lines and Points 
 permalink: /lines/
 ---
+![Line and point SLAM](/assets/lld/lld_small.png)
 
 Line segments are especially helpful for feature-based camera pose estimation in man-made 
 environments with repetitive visual appearance and lack of unique texture.

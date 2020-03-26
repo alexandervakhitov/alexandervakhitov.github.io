@@ -12,7 +12,7 @@ permalink: /projects/
 
 #### [CarpetVR: 6DoF Smartphone VR](/carpetvr/)
 
-#### [Set2Model Networks](/s2m2/)
+#### [Set2Model Networks](/set2model/)
 
 ### Control and Optimization
 
