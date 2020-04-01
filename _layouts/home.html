@@ -8,22 +8,52 @@ layout: default
   {%- endif -%}
   <!--<h1 class="post-list-heading">Introduction</h1>-->
 
-  I am Alexander Vakhitov, a member of Vision, Learning and Telepresence lab of
-  <a href="https://faculty.skoltech.ru/people/victorlempitsky">Victor Lempitsky</a> in
+<style type="text/css">
+.image-left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: left;
+}
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+ <div class="row">
+  <div class="column">
+    <p><img src="/assets/alexander.png" alt="Hi!" width="250px"/></p>
+  </div>
+  <div class="column">
+
+    I am Alexander Vakhitov, a computer vision researcher. Currently I work on human avatars for telepresence in a VIOLET lab of Prof.
+  <a href="https://faculty.skoltech.ru/people/victorlempitsky">Victor Lempitsky</a> in the
   <a href="https://research.samsung.com/aicenter_moscow">Samsung AI Center-Moscow</a>.
 
   <p>
-  I work on computer vision in augmented and virtual reality. My interests are in robotics, control and opimization as well.
-    Check my research and public code here:
-    <ul>
-      <li> <a href=https://scholar.google.ru/citations?user=g_2iut0AAAAJ&hl=ru"> Google Scholar</a> </li>
-      <li> <a href="https://github.com/alexandervakhitov">Github</a></li>
-      <li><a href="https://www.researchgate.net/profile/Alexander_Vakhitov">ResearchGate</a> </li>
-    </ul>
-  <p>
-  Find here my <a href="/pubs/">papers</a> and <a href="/projects/">projects</a>,
-  presentations and posts.
+  Previously I worked on SLAM and visual geometry, and I did my PhD on control and optimization. Find here my <a href="/cv/">CV</a>, <a href="/pubs/">papers</a> and <a href="/projects/">projects</a>.
+    <center>
+    <a href=https://scholar.google.ru/citations?user=g_2iut0AAAAJ&hl=ru"> <img src="/assets/scholar.jpeg" alt="Scholar" height="40"> </a>
+      <a href="https://github.com/alexandervakhitov"><img src="/assets/github.png" alt="GitHub" height="40"></a> <br>
+      <a href="https://www.researchgate.net/profile/Alexander_Vakhitov"><img src="/assets/ResearchGate_Logo.png" alt="ResearchGate" height=40>
+    </center>
+
   <!--Find here my research on computer vision, robotics, control and optimization.-->
+
+
+  </div>
+</div>
+
+
+
 
   {{ content }}
 

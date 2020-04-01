@@ -1,28 +1,60 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 permalink: /cv/
 ---
-<style type="text/css">
+<!--<style type="text/css">
 .image-left {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  float: right;
+  float: left;
+}
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 </style>
+<div class="row">
+  <div class="column">
+    <p><img src="/assets/alexander.png" alt="Hi!" width="250px"/></p>
+  </div>
+<div class="column">-->
 
-![My helpful screenshot](/assets/alexander.jpg){: .image-left } 
+Alexander is a computer vision researcher, a reviewer for the  CVPR, ICCV, ECCV, BMVC, ICRA and IROS conferences, IEEE TPAMI, RAL 
+and other journals. 
+
+Currently he is working on vision and learning solutions for human telepresence. Previously, 
+he worked on visual geometry and SLAM.
+
+**Professional Experience** 
+
+* 2010-2015: co-founder and CTO  of [*Digital Vision Labs*](http://divisionlabs.com),
+ currently one of the major providers of autonomous road traffic monitoring systems in Russia.
+
+* 2015-2016: visiting researcher in IRI (Barcelona) working with [*Francesc Moreno-Noguer*](https://www.iri.upc.edu/people/fmoreno/), 
+and in NII, Tokyo, working with [*Yinqiang Zheng*](https://sites.google.com/site/yinqiangzheng/).
+
+* 2016-2018: co-founder and developer of pose estimation and sensor fusion algorithms for the 
+[CapretVR](http://www.carpetvr.com), a smartphone-based 6DoF VR system.  
+
+* 2016-2018: senior researcher in the group of Prof. [*Victor Lempitsky*](https://faculty.skoltech.ru/people/victorlempitsky), Skoltech University.
  
-Alexander Vakhitov obtained a **PhD in Discrete Mathematics and Mathematical Cybernetics** from St. Petersburg State University
- in 2010 and **MSc in Computer Science** in 2007. He currently works in the Samsung AI Center, Moscow.
+* 2018-now: project leader in the lab of Prof. [*Victor Lempitsky*](https://faculty.skoltech.ru/people/victorlempitsky), Samsung AI Center, Moscow.
+
+**Education** 
+
+* Specialist in Computer Science, cum laude, St. Petersburg State University, 2007
+* PhD in Control and Optimization, St. Petersburg State University, 2010
+* Master in Innovation Management, St. Petersburg State University and Lappeenranta University of Technology (Finland), 2009
+
  
-In 2016-2018, Alexander was a Senior Researcher at Skoltech.
-
-In 2016-2018, Alexander was a member of [MagicCarpet](http://www.carpetvr.com) team which developed a smartphone-based 6DoF VR system.
-
-In 2011, Alexander co-founded and became a CTO (2011-2016) of **Digital Vision Labs**, a provider 
-of computer vision-based road traffic analysis solutions located in St. Petersburg, Russia.
-
-In 2011-2016, Alexander was an Assistant and Associate Professor in St. Petersburg State University and gave courses on Image Processing, Computer Graphics, Distributed and Multiprocessor Programming.    
-
+<!--  </div>
+  </div>-->
