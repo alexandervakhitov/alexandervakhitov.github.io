@@ -31,8 +31,8 @@ permalink: /cv/
 Alexander is a computer vision researcher, a reviewer for the  CVPR, ICCV, ECCV, BMVC, ICRA and IROS conferences, IEEE TPAMI, RAL 
 and other journals. 
 
-Currently he is working on vision and learning solutions for SLAM. Previously, 
-he worked on human avatars for photorealistic telepresence, as well as visual geometry. 
+Currently he is working on vision and learning for SLAM. Previously, 
+he worked on human avatars for photorealistic telepresence and visual geometry. 
 He did his PhD in theoretical foundations of stochastic approximation. 
 
 **Professional Experience** 
