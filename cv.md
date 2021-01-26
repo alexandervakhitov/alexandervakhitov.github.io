@@ -31,8 +31,9 @@ permalink: /cv/
 Alexander is a computer vision researcher, a reviewer for the  CVPR, ICCV, ECCV, BMVC, ICRA and IROS conferences, IEEE TPAMI, RAL 
 and other journals. 
 
-Currently he is working on vision and learning solutions for human telepresence. Previously, 
-he worked on visual geometry and SLAM.
+Currently he is working on vision and learning solutions for SLAM. Previously, 
+he worked on human avatars for photorealistic telepresence, as well as visual geometry. 
+He did his PhD in theoretical foundations of stochastic approximation. 
 
 **Professional Experience** 
 
@@ -47,7 +48,9 @@ and in NII, Tokyo, working with [*Yinqiang Zheng*](https://sites.google.com/site
 
 * 2016-2018: senior researcher in the group of Prof. [*Victor Lempitsky*](https://faculty.skoltech.ru/people/victorlempitsky), Skoltech University.
  
-* 2018-now: project leader in the lab of Prof. [*Victor Lempitsky*](https://faculty.skoltech.ru/people/victorlempitsky), Samsung AI Center, Moscow.
+* 2018-2020: project leader in the lab of Prof. [*Victor Lempitsky*](https://faculty.skoltech.ru/people/victorlempitsky), Samsung AI Center, Moscow.
+
+* 2020-now: researcher at SLAMCore Ltd.
 
 **Education** 
 
