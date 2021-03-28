@@ -4,12 +4,56 @@ title: Publications
 permalink: /pubs/
 --- 
 
+#### 2021
+**Uncertainty-Aware Camera Pose Estimation from Points and Lines**
+
+A. Vakhitov, L. Ferraz Colomina, A. Agudo and F. Moreno-Noguer
+
+Computer Vision and Pattern Recognition (CVPR), 2021
+
+**Real-Time RGBD-Based Extended Body Pose Estimation**
+
+R. Bashirov, A. Ianina, K. Iskakov, Y. Kononenko, V. Strizhkova, V. Lempitsky and A. Vakhitov
+
+Winter Conference on Applications of Computer Vision (WACV), 2021
+
 #### 2019
-- Kosaty, Dmitry and Vakhitov, Alexander and Granichin, Oleg and Yuchi, Ming **Stochastic Fast Gradient for Tracking,**  Proceedings of the 2019 American Control Conference, 2019,  pp. 1476--1481  [pdf]({{site.url}}/scripts/publications/files/kosaty2019.pdf)  [bib]({{site.url}}/scripts/publications/bib/kosaty2019.bib)
-- Shysheya, Aliaksandra and Zakharov, Egor and Aliev, Kara-Ali and Bashirov, Renat and Burkov, Egor and Iskakov, Karim and Ivakhnenko, Aleksei and Malkov, Yury and Pasechnik, Igor and Ulyanov, Dmitry and Vakhitov, Alexander and Lempitsky, Victor **Textured Neural Avatars,**  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019,  pp. 2387--2397   [bib]({{site.url}}/scripts/publications/bib/shysheya2019textured.bib)
-- Grigorev, Artur and Sevastopolsky, Artem and Vakhitov, Alexander and Lempitsky, Victor **Coordinate-based Texture Inpainting for Pose-Guided Image Generation,**  Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019,  pp. 12135--12144   [bib]({{site.url}}/scripts/publications/bib/grigorev2018coordinate.bib)
-- Vakhitov, Alexander and Lempitsky, Victor **Learnable Line Segment Descriptor for Visual SLAM,**  IEEE Access, 2019   [pdf]({{site.url}}/scripts/publications/files/vakhitov-lld-2019.pdf)  [bib]({{site.url}}/scripts/publications/bib/vakhitov2019learnable.bib)
-- Pumarola, Albert and Vakhitov, Alexander and Agudo, Antonio and Moreno-Noguer, Francesc and Sanfeliu, Alberto **Relative Localization for Aerial Manipulation with PL-SLAM,**  Aerial Robotic Manipulation, 2019,  pp. 239--248   [bib]({{site.url}}/scripts/publications/bib/pumarola2019relative.bib)
+ **Textured Neural Avatars**
+[bibtex]({{site.url}}/scripts/publications/bib/shysheya2019textured.bib)
+
+A. Shysheya, E. Zakharov, K. Aliev, R. Bashirov, E. Burkov, K. Iskakov, A. Ivakhnenko, Y. Malkov, I. Pasechnik,  D. Ulyanov, A. Vakhitov and V. Lempitsky
+
+Computer Vision and Pattern Recognition (CVPR), 2019
+
+**Coordinate-based Texture Inpainting for Pose-Guided Image Generation**
+[bibtex]({{site.url}}/scripts/publications/bib/grigorev2018coordinate.bib)
+
+A. Grigorev, A. Sevastopolsky, A. Vakhitov and V. Lempitsky 
+
+Computer Vision and Pattern Recognition (CVPR), 2019
+
+**Learnable Line Segment Descriptor for Visual SLAM**
+[pdf]({{site.url}}/scripts/publications/files/vakhitov-lld-2019.pdf)  [bibtex]({{site.url}}/scripts/publications/bib/vakhitov2019learnable.bib)
+
+A. Vakhitov and V. Lempitsky
+
+IEEE Access, 2019
+
+**Relative Localization for Aerial Manipulation with PL-SLAM**
+[bibtex]({{site.url}}/scripts/publications/bib/pumarola2019relative.bib)
+
+A. Pumarola, A. Vakhitov, A. Agudo, F. Moreno-Noguer and A. Sanfeliu
+
+Aerial Robotic Manipulation, 2019
+
+**Stochastic Fast Gradient for Tracking**
+[pdf]({{site.url}}/scripts/publications/files/kosaty2019.pdf)  [bibtex]({{site.url}}/scripts/publications/bib/kosaty2019.bib)
+
+D. Kosaty, A. Vakhitov, O. Granichin, Oleg and M. Yuchi 
+
+American Control Conference, 2019 
+
+
 
 #### 2018
 - Vakhitov, Alexander and Lempitsky, Victor and Zheng, Yinqiang **Stereo relative pose from line and point feature triplets,**  Proceedings of the European Conference on Computer Vision (ECCV), 2018,  pp. 648--663  [pdf]({{site.url}}/scripts/publications/files/vakhitov2018.pdf)  [bib]({{site.url}}/scripts/publications/bib/vakhitov2018stereo.bib)
