@@ -23,9 +23,8 @@ We developed a deep SLAM-oriented [*descriptor*](({{site.url}}/lld/)) for line s
 #### Papers
 
 [Uncertainty-Aware Camera Pose Estimation from Points and Lines]({{site.url}}/uncertain-pnp/)
-<!-- [pdf]({{site.url}}/) 
-[bib]({{site.url}}/) 
-[code](https://github.com/alexandervakhitov/uncertain-pnp) -->
+<!--[pdf]({{site.url}}/scripts/publications/files/vakhitov2021uncertain.pdf)  [bib]({{site.url}}/scripts/publications/bib/vakhitov2021uncertainty.bib)
+[code](https://github.com/alexandervakhitov/uncertain-pnp)--> 
 
 [Learnable Line Descriptor for Visual SLAM]({{site.url}}/lld/)
 <!-- [pdf]({{site.url}}/scripts/publications/files/vakhitov-lld-2019.pdf) 

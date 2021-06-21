@@ -51,7 +51,7 @@ with open('publication_list.md', 'w') as md_file:
         year_str = bib_item['year']
         if len(pages)>0:
             year_str += ','
-        md_file.write(u"- {0} **{1},** {2} {3} {4} {5} {6}\n".format(bib_item['author'],
+        md_file.write(u"\n**{1}** {5} {6} \n\n {0}\n\n {2} {3} {4} \n\n".format(bib_item['author'],
                                                                   bib_item['title'].replace('{', '').replace('}', ''),
                                                                   venue,
                                                                   year_str,

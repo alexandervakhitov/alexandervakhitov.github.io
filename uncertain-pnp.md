@@ -43,3 +43,8 @@ same dataset.
 [Code in MATLAB](https://github.com/alexandervakhitov/uncertain-pnp.git)
 
 ### Paper
+**Uncertainty-Aware Camera Pose Estimation From Points and Lines**  [pdf]({{site.url}}/scripts/publications/files/vakhitov2021uncertain.pdf)  [bib]({{site.url}}/scripts/publications/bib/vakhitov2021uncertainty.bib) 
+
+ Vakhitov, Alexander and Ferraz, Luis and Agudo, Antonio and Moreno-Noguer, Francesc
+
+  Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021,  pp. 4659--4668
