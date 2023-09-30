@@ -8,10 +8,10 @@ Alexander Vakhitov,
 [Andrew Starostin](https://www.linkedin.com/in/andrew-starostin-0b561699/), 
 [Victor Lempitsky](http://sites.skoltech.ru/compvision/members/vilem/)
 
-![My helpful screenshot](/assets/carpetvr/demo.png)
+![My helpful screenshot](https://www.youtube.com/watch?v=g1k_BpchHZ4)
 
 CarpetVR is a system for realtime 6DoF virtual reality based on an arbitrary smartphone. 
-A cheap case turns smartphone to a stereo VR helmet. We use a neural net-designed marker to enable
+An inexpensive case turns smartphone to a stereo VR helmet. We use a neural net-designed marker to enable
  fast and robust helmet pose estimation.  
 A case has a slanted mirror to make the smartphone cam look down. See [carpetvr.com](http://www.carpetvr.com) for details.
 

@@ -28,35 +28,39 @@ permalink: /cv/
   </div>
 <div class="column">-->
 
-Alexander is a computer vision researcher, a reviewer for the  CVPR, ICCV, ECCV, BMVC, ICRA and IROS conferences, IEEE TPAMI, RAL 
-and other journals. 
+Alexander Vakhitov is a computer vision / artificial intelligence professional based in London, UK, 
+with 15 years of expertise in the field, including AI in robotics, generative AI methods in computer vision and graphics, and computer vision for 3D geometry and reconstruction.
+He has co-founded two successful startups and developed several impactful software systems for robotics, virtual and mixed reality, and 3D visual perception. 
+Has 37 publications and several US, UK and EU patents, and is a reviewer for the  CVPR, ICCV, ECCV, BMVC, ICRA and IROS conferences; 
+IEEE Robotics and Automation Letters, IEEE Transactions on Pattern Analysis and Machine Intelligence, 
+and IEEE Transactions on Automatic Control journals.
 
-Currently he is working on vision and learning for SLAM. Previously, 
-he worked on human avatars for photorealistic telepresence and visual geometry. 
-He did his PhD in theoretical foundations of stochastic approximation. 
+Alexander Vakhitov holds a PhD in Mathematics (Optimization methods) from St. Petersburg State University. 
 
-**Professional Experience** 
+**Professional Experience**
+* 2020-now: Staff Research Engineer at [Slamcore Ltd.](http://www.slamcore.com), a London-based startup co-founded by [*Prof. Andrew Davison*](https://scholar.google.com/citations?user=A0ae1agAAAAJ&hl=en&oi=ao) and [*Prof. Stefan Leutenegger*](https://scholar.google.com/citations?user=SmGQ48gAAAAJ&hl=en&oi=ao). Working on AI methods for mapping and localization in robotics.
 
-* 2010-2015: co-founder and CTO  of [*Digital Vision Labs*](http://divisionlabs.com),
- currently one of the major providers of autonomous road traffic monitoring systems in Russia.
+* 2018-2020: Project Leader / Staff Engineer in the VIOLET lab, [Samsung AI Center](https://research.samsung.com/aicenter), under the leadership of [*Prof. Victor Lempitsky*](https://scholar.google.com/citations?user=gYYVokYAAAAJ&hl=en&oi=ao). Worked on photorealistic 3D human avatars for augmented/mixed reality applications.
 
-* 2015-2016: visiting researcher in IRI (Barcelona) working with [*Francesc Moreno-Noguer*](https://www.iri.upc.edu/people/fmoreno/), 
-and in NII, Tokyo, working with [*Yinqiang Zheng*](https://sites.google.com/site/yinqiangzheng/).
+* 2016-2018: Senior Researcher in the group of [*Prof. Victor Lempitsky*](https://scholar.google.com/citations?user=gYYVokYAAAAJ&hl=en&oi=ao). Worked on AI in Robotics, in particular representation learning and learnable geometric robot perception.
 
-* 2016-2018: co-founder and developer of pose estimation and sensor fusion algorithms for the 
-[CapretVR](http://www.carpetvr.com), a smartphone-based 6DoF VR system.  
+* 2016-2018: Co-Founder of [CapretVR](https://alexandervakhitov.github.io/carpetvr/), a start-up focused on a smartphone-based VR system. Was a principal designer and developer of real-time smartphone-based low-latency localization system. 
 
-* 2016-2018: senior researcher in the group of Prof. [*Victor Lempitsky*](https://faculty.skoltech.ru/people/victorlempitsky), Skoltech University.
- 
-* 2018-2020: project leader in the lab of Prof. [*Victor Lempitsky*](https://faculty.skoltech.ru/people/victorlempitsky), Samsung AI Center, Moscow.
+* 2015-2016: Visiting Researcher in [IRI](https://www.iri.upc.edu/) (Barcelona) working with [*Francesc Moreno-Noguer*](https://www.iri.upc.edu/people/fmoreno/), 
+and in [NII](https://www.nii.ac.jp/en/), Tokyo, working with [*Yinqiang Zheng*](https://scholar.google.com/citations?user=JD-5DKcAAAAJ&hl=zh-CN).
 
-* 2020-now: researcher at SLAMCore Ltd.
+* 2010-2015: Co-Founder and CTO  of [*Digital Vision Labs*](http://divisionlabs.com),
+ principal leader of software design and development, creator of 3D perception technologies for road vehicle identification and speed estimation on embedded platforms.
 
 **Education** 
+* PhD on theoretical foundations of stochastic approximation, Department of Mathematics and Mechanics,  St. Petersburg State University, 2010.
+Supervised by [*Prof. Oleg Granichin*](https://scholar.google.com/citations?user=n_uOeskAAAAJ&hl=en&oi=ao),
+PhD commitee [*Prof. Alexander Fradkov*](https://scholar.google.com/citations?user=LjVGyAoAAAAJ&hl=en&oi=ao), 
+ [*Prof. Pavel Shcherbakov*](https://scholar.google.com/citations?user=g8Q_ABAAAAAJ&hl=en&oi=ao) and 
+ [*Prof. Tatiana Krasulina*](https://www.semanticscholar.org/author/T.-P.-Krasulina/50818366).
+* Master in Innovation Management, Graduate School of Management, St. Petersburg State University and School of Business, Lappeenranta University of Technology (Finland), 2009
+* Specialist in Computer Science, cum laude, Department of Mathematics and Mechanics, St. Petersburg State University, 2007
 
-* Specialist in Computer Science, cum laude, St. Petersburg State University, 2007
-* PhD in Control and Optimization, St. Petersburg State University, 2010
-* Master in Innovation Management, St. Petersburg State University and Lappeenranta University of Technology (Finland), 2009
 
  
 <!--  </div>
