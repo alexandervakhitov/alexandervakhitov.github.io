@@ -7,6 +7,7 @@ from bibtexparser.bibdatabase import BibDatabase
 # the bib file is generated automatically by Zotero
 with open('publications/mypubs.bib') as bibtex_file:
     bib_database = bibtexparser.load(bibtex_file)
+print(f'Altogether {len(bib_database.entries)} publications')
 #sort by date
 years = []
 for bib_item in bib_database.entries:

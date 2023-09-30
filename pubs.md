@@ -5,20 +5,39 @@ permalink: /pubs/
 --- 
 
 
+#### 2023
+
+**SeMLaPS: Real-time Semantic Mapping with Latent Prior Networks and Quasi-Planar Segmentation**   [bib]({{site.url}}/scripts/publications/bib/wang2023semlaps.bib) 
+
+ Wang, Jingwen and Tarrio, Juan and Agapito, Lourdes and Alcantarilla, Pablo F and Vakhitov, Alexander
+
+  IEEE Robotics and Automation Letters, 2023,  pp.  
+
+
+**NeSS-ST: Detecting Good and Stable Keypoints with a Neural Stability Score and the Shi-Tomasi detector**   [bib]({{site.url}}/scripts/publications/bib/pakulev2023nesst.bib) 
+
+ Pakulev, Konstantin and Vakhitov, Alexander and Ferrer, Gonzalo
+
+  Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2023,  pp. 12135--12144 
+
+
+#### 2022
+
+**Self-Supervised Depth Completion for Active Stereo**   [bib]({{site.url}}/scripts/publications/bib/warburg2022self.bib) 
+
+ Warburg, Frederik and Hernandez-Juarez, Daniel and Tarrio, Juan and Vakhitov, Alexander and Bonde, Ujwal and Alcantarilla, Pablo F
+
+  IEEE Robotics and Automation Letters, 2022,  pp. 3475--3482 
+
+
 #### 2021
-
-**StylePeople: A Generative Model of Fullbody Human Avatars**   [bib]({{site.url}}/scripts/publications/bib/grigorev2021stylepeople.bib) 
-
- Grigorev, Artur and Iskakov, Karim and Ianina, Anastasia and Bashirov, Renat and Zakharkin, Ilya and Vakhitov, Alexander and Lempitsky, Victor
-
-  Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021,  pp. 5151--5160 
-
 
 **Uncertainty-Aware Camera Pose Estimation From Points and Lines**  [pdf]({{site.url}}/scripts/publications/files/vakhitov2021uncertain.pdf)  [bib]({{site.url}}/scripts/publications/bib/vakhitov2021uncertainty.bib) 
 
  Vakhitov, Alexander and Ferraz, Luis and Agudo, Antonio and Moreno-Noguer, Francesc
 
-  Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021,  pp. 4659--4668
+  Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021,  pp. 4659--4668 
+
 
 **Real-time RGBD-based Extended Body Pose Estimation**   [bib]({{site.url}}/scripts/publications/bib/bashirov2021real.bib) 
 
@@ -27,7 +46,21 @@ permalink: /pubs/
   Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, 2021,  pp. 2807--2816 
 
 
+**StylePeople: A Generative Model of Fullbody Human Avatars**   [bib]({{site.url}}/scripts/publications/bib/grigorev2021stylepeople.bib) 
+
+ Grigorev, Artur and Iskakov, Karim and Ianina, Anastasia and Bashirov, Renat and Zakharkin, Ilya and Vakhitov, Alexander and Lempitsky, Victor
+
+  Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021,  pp. 5151--5160 
+
+
 #### 2019
+
+**Stochastic Fast Gradient for Tracking**  [pdf]({{site.url}}/scripts/publications/files/kosaty2019.pdf)  [bib]({{site.url}}/scripts/publications/bib/kosaty2019.bib) 
+
+ Kosaty, Dmitry and Vakhitov, Alexander and Granichin, Oleg and Yuchi, Ming
+
+  Proceedings of the American Control Conference, 2019,  pp. 1476--1481 
+
 
 **Relative Localization for Aerial Manipulation with PL-SLAM**   [bib]({{site.url}}/scripts/publications/bib/pumarola2019relative.bib) 
 
@@ -57,14 +90,14 @@ permalink: /pubs/
   IEEE Access, 2019  
 
 
-**Stochastic Fast Gradient for Tracking**  [pdf]({{site.url}}/scripts/publications/files/kosaty2019.pdf)  [bib]({{site.url}}/scripts/publications/bib/kosaty2019.bib) 
-
- Kosaty, Dmitry and Vakhitov, Alexander and Granichin, Oleg and Yuchi, Ming
-
-  Proceedings of the American Control Conference, 2019,  pp. 1476--1481 
-
-
 #### 2018
+
+**Stereo relative pose from line and point feature triplets**  [pdf]({{site.url}}/scripts/publications/files/vakhitov2018.pdf)  [bib]({{site.url}}/scripts/publications/bib/vakhitov2018stereo.bib) 
+
+ Vakhitov, Alexander and Lempitsky, Victor and Zheng, Yinqiang
+
+  Proceedings of the European Conference on Computer Vision (ECCV), 2018,  pp. 648--663 
+
 
 **Set2Model networks: Learning discriminatively to learn generative
 models**  [pdf]({{site.url}}/scripts/publications/files/s2mcviu.pdf)  [bib]({{site.url}}/scripts/publications/bib/set2model2018.bib) 
@@ -76,13 +109,6 @@ Victor S. Lempitsky
   Computer Vision and Image Understanding, 2018,  pp. 13--23 
 
 
-**Stereo relative pose from line and point feature triplets**  [pdf]({{site.url}}/scripts/publications/files/vakhitov2018.pdf)  [bib]({{site.url}}/scripts/publications/bib/vakhitov2018stereo.bib) 
-
- Vakhitov, Alexander and Lempitsky, Victor and Zheng, Yinqiang
-
-  Proceedings of the European Conference on Computer Vision (ECCV), 2018,  pp. 648--663 
-
-
 **CarpetVR: The Magic Carpet Meets the Magic Mirror**   [bib]({{site.url}}/scripts/publications/bib/lempitsky2018carpetvr.bib) 
 
  Lempitsky, Victor and Vakhitov, Alexander and Starostin, Andrew
@@ -92,18 +118,18 @@ Victor S. Lempitsky
 
 #### 2017
 
-**PL-SLAM: Real-time monocular visual SLAM with points and lines**  [pdf]({{site.url}}/scripts/publications/files/pl-slam-2017.pdf)  [bib]({{site.url}}/scripts/publications/bib/pumarola2017pl.bib) 
-
- Pumarola, Albert and Vakhitov, Alexander and Agudo, Antonio and Sanfeliu, Alberto and Moreno-Noguer, Francese
-
-  2017 IEEE International Conference on Robotics and Automation (ICRA), 2017,  pp. 4503--4508 
-
-
 **Set2Model networks: Learning discriminatively to learn generative models**  [pdf]({{site.url}}/scripts/publications/files/vakhitov2017.pdf)  [bib]({{site.url}}/scripts/publications/bib/vakhitov2017set2model.bib) 
 
  Vakhitov, Alexander and Kuzmin, Andrey and Lempitsky, Victor
 
   Proceedings of the IEEE International Conference on Computer Vision Workshops, 2017,  pp. 357--366 
+
+
+**PL-SLAM: Real-time monocular visual SLAM with points and lines**  [pdf]({{site.url}}/scripts/publications/files/pl-slam-2017.pdf)  [bib]({{site.url}}/scripts/publications/bib/pumarola2017pl.bib) 
+
+ Pumarola, Albert and Vakhitov, Alexander and Agudo, Antonio and Sanfeliu, Alberto and Moreno-Noguer, Francese
+
+  2017 IEEE International Conference on Robotics and Automation (ICRA), 2017,  pp. 4503--4508 
 
 
 #### 2016
@@ -183,13 +209,6 @@ Victor S. Lempitsky
 
 #### 2009
 
-**Algorithm for stochastic approximation with trial input perturbation in the nonstationary problem of optimization**  [pdf]({{site.url}}/scripts/publications/files/vakhitov2009.pdf)  [bib]({{site.url}}/scripts/publications/bib/vakhitov2009algorithm.bib) 
-
- Vakhitov, Alexander Timurovich and Granichin, Oleg Nikolaevich and Gurevich, LS
-
-  Automation and Remote Control, 2009,  pp. 1827 
-
-
 **Transfer Speed Estimation for Adaptive Scheduling in the Data Grid**   [bib]({{site.url}}/scripts/publications/bib/panshenskov2009transfer.bib) 
 
  Panshenskov, Mikhail and Vakhitov, Alexander
@@ -218,6 +237,13 @@ Victor S. Lempitsky
   Networked embedded and control system technologies: European and Russian R\&D cooperation, 2009,  pp. 66 
 
 
+**Algorithm for stochastic approximation with trial input perturbation in the nonstationary problem of optimization**  [pdf]({{site.url}}/scripts/publications/files/vakhitov2009.pdf)  [bib]({{site.url}}/scripts/publications/bib/vakhitov2009algorithm.bib) 
+
+ Vakhitov, Alexander Timurovich and Granichin, Oleg Nikolaevich and Gurevich, LS
+
+  Automation and Remote Control, 2009,  pp. 1827 
+
+
 **Discrete-time minimum tracking based on stochastic approximation algorithm with randomized differences**  [pdf]({{site.url}}/scripts/publications/files/cdc2009.pdf)  [bib]({{site.url}}/scripts/publications/bib/granichin2009discrete.bib) 
 
  Granichin, Oleg and Gurevich, Lev and Vakhitov, Alexander
@@ -236,18 +262,18 @@ Victor S. Lempitsky
 
 #### 2007
 
-**Adaptive scheduling of parallel computations for SPMD tasks**   [bib]({{site.url}}/scripts/publications/bib/panshenskov2007adaptive.bib) 
-
- Panshenskov, Mikhail and Vakhitov, Alexander
-
-  International Conference on Computational Science and Its Applications, 2007,  pp. 38--50 
-
-
 **Adaptive scheduling and resource assessment in GRID**   [bib]({{site.url}}/scripts/publications/bib/krasnotcshekov2007adaptive.bib) 
 
  Krasnotcshekov, Veniamin and Vakhitov, Alexander
 
   International Conference on Parallel Computing Technologies, 2007,  pp. 240--244 
+
+
+**Adaptive scheduling of parallel computations for SPMD tasks**   [bib]({{site.url}}/scripts/publications/bib/panshenskov2007adaptive.bib) 
+
+ Panshenskov, Mikhail and Vakhitov, Alexander
+
+  International Conference on Computational Science and Its Applications, 2007,  pp. 38--50 
 
 
 **SPSA-based adaptive control: accuracy of estimates**  [pdf]({{site.url}}/scripts/publications/files/vakhitov2007spsa.pdf)  [bib]({{site.url}}/scripts/publications/bib/vakhitov2007spsa.bib) 
@@ -259,16 +285,16 @@ Victor S. Lempitsky
 
 #### 2006
 
-**A randomized stochastic optimization algorithm: Its estimation accuracy**  [pdf]({{site.url}}/scripts/publications/files/vakhitov2006.pdf)  [bib]({{site.url}}/scripts/publications/bib/vakhitov2006randomized.bib) 
-
- Vakhitov, Alexander Timurovich and Granichin, Oleg Nikolaevich and Sysoev, SS
-
-  Automation and remote control, 2006,  pp. 589--597 
-
-
 **Accuracy for the SPSA algorithm with two measurements**  [pdf]({{site.url}}/scripts/publications/files/vakhitovwseas2006.pdf)  [bib]({{site.url}}/scripts/publications/bib/granichin2006accuracy.bib) 
 
  Granichin, Oleg N and Vakhitov, Alexander T
 
   WSEAS Transactions on Systems, 2006,  pp. 953--957 
+
+
+**A randomized stochastic optimization algorithm: Its estimation accuracy**  [pdf]({{site.url}}/scripts/publications/files/vakhitov2006.pdf)  [bib]({{site.url}}/scripts/publications/bib/vakhitov2006randomized.bib) 
+
+ Vakhitov, Alexander Timurovich and Granichin, Oleg Nikolaevich and Sysoev, SS
+
+  Automation and remote control, 2006,  pp. 589--597 
 
